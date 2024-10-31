@@ -1,1 +1,8 @@
-/target
+# Ignore Rust build artifacts
+/target/
+
+# Ignore Cargo.lock for libraries
+Cargo.lock
+
+# Ignore editor-specific files (common ones)
+*.swp

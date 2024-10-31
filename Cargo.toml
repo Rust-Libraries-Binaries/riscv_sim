@@ -2,5 +2,9 @@
 name = "riscv_sim"
 version = "0.1.0"
 edition = "2021"
+description = "A simple and efficient RISC-V instruction simulator written in Rust."
+authors = ["Ben Santora <bensatlantik@gmail.com>"]
+license = "MIT"
+repository = "https://github.com/bensatlantik/riscv_sim"
 
 [dependencies]
