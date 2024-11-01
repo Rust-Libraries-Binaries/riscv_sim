@@ -10,10 +10,17 @@ pub fn hello() {
     println!("Hello from riscv_sim!");
 }
 
+<<<<<<< HEAD
 // Unit tests to validate the "hello" function and other modules
 #[cfg(test)]
 mod tests {
     use super::*; // Correctly imports items from the root of the crate
+=======
+// Unit tests to validate the "hello" function and other components
+#[cfg(test)]
+mod tests {
+    use super::*;
+>>>>>>> 5fc049b (Update)
     use crate::cpu::Cpu;
     use crate::memory::Memory;
     use crate::instruction::Instruction;

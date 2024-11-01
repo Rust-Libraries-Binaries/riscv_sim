@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ignore Rust build artifacts
 /target/
 
@@ -6,3 +7,19 @@ Cargo.lock
 
 # Ignore editor-specific files (common ones)
 *.swp
+=======
+# Ignore the target directory where Cargo builds the project
+/target/
+
+# Ignore temporary files created by editors or the OS
+*.swp            # vi/vim swap files
+*.DS_Store       # macOS Finder metadata
+Thumbs.db        # Windows Explorer thumbnail cache
+
+# Ignore Cargo.lock for libraries (but include it for binaries)
+/Cargo.lock
+
+# Ignore any IntelliJ IDEA or Visual Studio Code specific settings
+.idea/
+/.vscode/
+>>>>>>> 5fc049b (Update)
