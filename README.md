@@ -66,8 +66,11 @@ Cpu: Simulates the RISC-V CPU with registers and a program counter. Includes met
 Memory: A simple memory model to load and store values.
 Instruction: Defines the Instruction enum with various RISC-V-like instructions.
 
-##License
+## License
 This project is licensed under the MIT License 
 
 ## Author
 Ben Santora (<bensatlantik@gmail.com>)
+
+## Support My Work
+If you find this library helpful, consider supporting my open-source efforts: https://www.paypal.com/donate/?business=QMSZ2E6L75BYN&no_recurring=0&item_name=If+my+Rust+libraries+have+added+value+to+your+projects%2C+consider+a+small+donation+to+help+me+continue.+Thank+you%21&currency_code=USD
