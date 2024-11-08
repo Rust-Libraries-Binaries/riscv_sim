@@ -1,3 +1,7 @@
+## Archived Repository
+
+**This repository was a gift from me to the Rust and open-source community. It is no longer actively maintained and has been archived. Feel free to fork and continue development on your own.**
+
 # riscv_sim
 
 A simple and efficient RISC-V instruction simulator written in Rust. This library is designed for developers and enthusiasts who want to learn, prototype, or test RISC-V assembly code in a controlled software environment.
@@ -70,7 +74,4 @@ Instruction: Defines the Instruction enum with various RISC-V-like instructions.
 This project is licensed under the MIT License 
 
 ## Author
-Ben Santora (<bensatlantik@gmail.com>)
-
-## Donate
-https://bensatlantik.github.io/
+Ben Santora 
